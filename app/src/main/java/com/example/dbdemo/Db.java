@@ -1,4 +1,4 @@
-package com.example.dbdemo;
+﻿package com.example.dbdemo;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -12,9 +12,6 @@ import com.example.dbdemo.net.model.Artist;
 
 import java.util.List;
 
-/**
- * Created by Student1 on 21.04.2016.
- */
 public class Db extends SQLiteOpenHelper {
     private static Db instance;
 
